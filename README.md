@@ -1,0 +1,5 @@
+### HECO Mdex && Dogeswap 闪电贷
+- Mdex Factory Address: 0xb0b670fc1F7724119963018DB0BfA86aDb22d941
+- DogeSwap Router Adderss: 0x539A9Fbb81D1D2DC805c698B55C8DF81cbA6b350
+- 测试币 HYLL TOKEN Address: 0x1cA6740DF8fD2fFdE3747E002201C3fA3049cdBA
+- 
